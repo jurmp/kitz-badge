@@ -64,7 +64,7 @@ function createAndAppendBadge() {
     // Add a click event listener to the link
     linkElement.addEventListener('click', function() {
         // Handle the click event (you can add your custom logic here)
-        alert('Link clicked!');
+        //alert('Link clicked!');
     });
 }
 

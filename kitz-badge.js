@@ -46,7 +46,7 @@ function createAndAppendBadge() {
 
     // Create a paragraph for the right side
     var paragraphElement = document.createElement('p');
-    paragraphElement.textContent = 'Designed by Kitz';
+    paragraphElement.textContent = 'Kitz by Jurmp';
 
     // Append the paragraph to the right side
     rightSide.appendChild(paragraphElement);
